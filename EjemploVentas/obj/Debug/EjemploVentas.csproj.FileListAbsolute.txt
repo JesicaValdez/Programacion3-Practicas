@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\bin\Debug\EjemploVentas.exe.config
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\bin\Debug\EjemploVentas.exe
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\bin\Debug\EjemploVentas.pdb
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\obj\Debug\EjemploVentas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\obj\Debug\EjemploVentas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\obj\Debug\EjemploVentas.exe
+C:\Users\user\Desktop\UTN\Programación III\POO1\EjemploVentas\obj\Debug\EjemploVentas.pdb
