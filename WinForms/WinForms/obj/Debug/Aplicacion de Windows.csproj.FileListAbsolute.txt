@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\bin\Debug\WinForms.exe
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\bin\Debug\WinForms.pdb
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\Aplicacion de Windows.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.RadioButtonYCheckBox.resources
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\Aplicacion de Windows.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\Aplicacion de Windows.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.exe
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.pdb

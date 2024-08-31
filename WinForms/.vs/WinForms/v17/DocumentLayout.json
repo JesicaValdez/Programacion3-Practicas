@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadioButtonYCheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs",
+              "RelativeDocumentMoniker": "WinForms\\RadioButtonYCheckBox.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs",
+              "RelativeToolTip": "WinForms\\RadioButtonYCheckBox.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:08:43.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadioButtonYCheckBox.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs",
+              "RelativeDocumentMoniker": "WinForms\\RadioButtonYCheckBox.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\RadioButtonYCheckBox.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:26:13.525Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
