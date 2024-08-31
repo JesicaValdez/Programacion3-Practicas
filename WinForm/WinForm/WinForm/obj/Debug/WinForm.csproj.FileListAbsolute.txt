@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.pdb
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.Practica1.resources
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForm\WinForm\WinForm\obj\Debug\WinForm.Form2.resources
