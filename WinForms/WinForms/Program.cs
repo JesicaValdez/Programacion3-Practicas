@@ -15,7 +15,11 @@ namespace WinForms
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //correr el formulario 
-            Application.Run(new RadioButtonYCheckBox());
+            //Application.Run(new Form1());
+            //Application.Run(new RadioButtonYCheckBox());
+            //Application.Run(new ListB());
+            Application.Run(new frmListView());
+
         }
     }
 }

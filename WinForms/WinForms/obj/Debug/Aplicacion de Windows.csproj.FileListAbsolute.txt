@@ -7,3 +7,7 @@ C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinF
 C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\Aplicacion de Windows.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.exe
 C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.pdb
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.ListB.resources
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\user\Desktop\Repository\Proyectos\Programacion3-Practicas\WinForms\WinForms\obj\Debug\WinForms.frmListView.resources

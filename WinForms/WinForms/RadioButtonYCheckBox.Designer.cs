@@ -156,6 +156,8 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lbnombre);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "RadioButtonYCheckBox";
             this.Text = "RadioButton y CheckBox";
             this.Load += new System.EventHandler(this.RadioButtonYCheckBox_Load);

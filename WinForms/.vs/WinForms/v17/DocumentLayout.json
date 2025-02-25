@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|c:\\users\\user\\desktop\\repository\\proyectos\\programacion3-practicas\\winforms\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{28E1383C-7A03-4EA5-BAAC-7337274D5576}|WinForms\\Aplicacion de Windows.csproj|solutionrelative:winforms\\radiobuttonycheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -39,19 +63,94 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RadioButtonYCheckBox.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs",
-              "RelativeDocumentMoniker": "WinForms\\RadioButtonYCheckBox.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs",
-              "RelativeToolTip": "WinForms\\RadioButtonYCheckBox.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAswD8AAAABAAAA",
+              "Title": "ListView.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\ListView.cs",
+              "RelativeDocumentMoniker": "WinForms\\ListView.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\ListView.cs",
+              "RelativeToolTip": "WinForms\\ListView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:08:43.93Z",
+              "WhenOpened": "2024-09-01T14:29:28.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ListView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\ListView.cs",
+              "RelativeDocumentMoniker": "WinForms\\ListView.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\ListView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\ListView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:32:18.845Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form2.cs",
+              "RelativeToolTip": "WinForms\\Form2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:52:57.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:40:02.107Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Program.cs",
+              "RelativeToolTip": "WinForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:39:23.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form1.cs",
+              "RelativeToolTip": "WinForms\\Form1.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAWwMgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:57:03.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:25:33.655Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RadioButtonYCheckBox.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Repository\\Proyectos\\Programacion3-Practicas\\WinForms\\WinForms\\RadioButtonYCheckBox.cs",
               "RelativeDocumentMoniker": "WinForms\\RadioButtonYCheckBox.cs",
